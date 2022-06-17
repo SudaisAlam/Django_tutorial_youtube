@@ -1,0 +1,1 @@
+source /Users/sudaisalam/.local/share/virtualenvs/storefront-rH2pRoLL/bin/activate
